@@ -12,4 +12,4 @@ Average polarity scores are shown in the following graph:
 <img src="./sentiment_amlo_gatell.png"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 5px;"
-     width="600" height="500" />
+     width="600" height="400" />
